@@ -1,0 +1,3 @@
+[submodule "pitch-shift"]
+	path = pitch-shift
+	url = https://github.com/JentGent/pitch-shift.git
